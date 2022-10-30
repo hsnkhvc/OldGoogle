@@ -1,0 +1,58 @@
+/* logo ortalama*/
+
+.img-center {
+    text-align: center;
+
+}
+
+/* Background renkeri ve margin*/
+.bg-grey {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-green {
+    background-color: rgb(126, 229, 218);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box-2-bg {
+    background-color: #70CCC2;
+}
+.box-3-bg {
+    background-color: #62B3AA;
+}
+
+/* Kutuları sıralama ve bölme*/
+.box {
+   float: left; 
+   text-align: center; 
+   width: 33%;
+   height: 74px;
+   padding-top: 15px;
+  
+
+}
+.contanier {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4px;
+}
+.box-margin {   
+    margin-right:6.3px ;
+}
+
+/* Font size */
+.fs-small {
+    font-size: small;
+}
+
+/* Yazı tipi formatı*/
+body {
+    font-size: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
